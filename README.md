@@ -1,6 +1,4 @@
-<h4 align="center">
-Voice-Command Enabled Image Editor
-</h4>
+## Voice-Command Enabled Image Editor
 
 ## Project Overview
 
